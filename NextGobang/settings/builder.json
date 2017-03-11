@@ -1,0 +1,24 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.NextGobang",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "9dd65db5-238f-49d9-8bd6-ff694e7c4559",
+  "title": "NextGobang",
+  "webOrientation": "auto"
+}
